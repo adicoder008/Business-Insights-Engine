@@ -36,18 +36,22 @@ This project focuses on analyzing real-world e-commerce data to extract actionab
 ### 2. Customer Analysis
 - Identified top customers based on total spending
 - Segmented customers into High, Medium, and Low value groups
+![Monthly Revenue](docs/screenshots/top_customers.jpeg)
 
 ### 3. Payment Insights
 - Analyzed usage of different payment methods
 - Evaluated contribution of each payment type to total revenue
+![Monthly Revenue](docs/screenshots/payment_method.jpeg)
 
 ### 4. Delivery Performance
 - Identified delayed deliveries by comparing estimated vs actual delivery dates
 - Highlighted operational inefficiencies in logistics
+![Monthly Revenue](docs/screenshots/delivery_delay.jpeg)
 
 ### 5. Customer Retention
 - Identified repeat customers using order frequency analysis
 - Evaluated customer loyalty patterns
+![Monthly Revenue](docs/screenshots/cus_ranking.jpeg)
 
 ---
 
