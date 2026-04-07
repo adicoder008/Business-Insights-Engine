@@ -31,6 +31,7 @@ This project focuses on analyzing real-world e-commerce data to extract actionab
 ### 1. Revenue Trends
 - Analyzed monthly revenue patterns using transaction data
 - Identified growth trends and seasonal variations
+![Monthly Revenue](docs/screenshots/monthly_revenue.jpeg)
 
 ### 2. Customer Analysis
 - Identified top customers based on total spending
